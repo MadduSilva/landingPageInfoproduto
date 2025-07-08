@@ -4,6 +4,11 @@
 
 Este repositório contém o desenvolvimento de uma **landing page** para um infoproduto voltado à organização e produtividade de desenvolvedores(as), chamado **DED – Dev em Desenvolvimento**.
 
+
+![Capa do Projeto](img/capa-infoproduto.png)
+
+---
+
 ## 💡 Sobre o Projeto
 
 A proposta foi criar uma página de vendas completa e funcional para um curso imaginário voltado a devs que enfrentam dificuldades em manter uma rotina organizada e produtiva. A estrutura, linguagem e estilo visual foram pensados para simular uma campanha real de marketing digital, com foco em copywriting emocional, provas sociais, detalhamento de módulos e CTA's estratégicas.
@@ -22,6 +27,7 @@ Este projeto foi **inspirado na estrutura e estilo narrativo** da página da Lua
 🔗 [https://www.luanacarolinas.com.br/rpe-t001/ved-vagasabertas-a1](https://www.luanacarolinas.com.br/rpe-t001/ved-vagasabertas-a1)
 
 A escolha foi feita pela clareza da narrativa, apelo emocional bem estruturado e uso eficiente de provas sociais e benefícios práticos.
+(As ultimas imagens das "escadinhas" também foram tiradas da pagina dela)
 
 ## 🛠️ Tecnologias Utilizadas
 
