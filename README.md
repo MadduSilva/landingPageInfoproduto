@@ -43,6 +43,7 @@ A escolha foi feita pela clareza da narrativa, apelo emocional bem estruturado e
 - Apresentação da criadora (Maddu Silva)
 - Protocolo de aulas e metodologia (DED)
 - Benefícios detalhados do curso
+- Layout totalmente responsivo media queries
 - Seção de depoimentos simulando provas sociais
 - Bônus e garantias
 - FAQ com dúvidas frequentes
@@ -51,6 +52,13 @@ A escolha foi feita pela clareza da narrativa, apelo emocional bem estruturado e
 
 Este projeto **não representa um produto real** e foi idealizado apenas como exercício prático de design e desenvolvimento de landing pages. Todo o conteúdo (texto, imagens e personagens como "Maddu Silva") é fictício, criado com fins educativos e de portfólio.
 
+---
+## 📸 Prévia
+
+Você pode visualizar o projeto completo em:  
+👉 [BioLink - Creator](https://landing-page-infoproduto-fh45.vercel.app/)
+
+---
 ---
 
 💻 **Desenvolvido por:**  
