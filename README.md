@@ -56,7 +56,7 @@ Este projeto **não representa um produto real** e foi idealizado apenas como ex
 ## 📸 Prévia
 
 Você pode visualizar o projeto completo em:  
-👉 [BioLink - Creator](https://landing-page-infoproduto-fh45.vercel.app/)
+👉 [Landing Page - Infoproduto](https://landing-page-infoproduto-fh45.vercel.app/)
 
 ---
 ---
